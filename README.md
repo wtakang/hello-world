@@ -1,2 +1,5 @@
 # hello-world
-Just another repo
+
+Hello earthlings, 
+
+willy here, Voice engineer from the bundocks ... transitioning to software engineering 
