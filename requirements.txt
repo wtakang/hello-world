@@ -7,7 +7,7 @@ ciscosparkapi==0.10.1
 cryptography==2.8
 future==0.18.2
 idna==2.9
-Jinja2==2.11.1
+Jinja2==2.11.3
 lxml==4.5.0
 MarkupSafe==1.1.1
 ncclient==0.6.7
